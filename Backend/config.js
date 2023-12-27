@@ -1,5 +1,0 @@
-// add a port
-export const PORT = 5555;
-
-export const mongoDBURL =
-  "mongodb+srv://piriya619:pm6K3RVcbzrcZvjL@bookstoreprojectmern.igsveqc.mongodb.net/books-collection?retryWrites=true&w=majority";
